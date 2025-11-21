@@ -3,6 +3,6 @@ __pycache__/
 *.bin
 *.gz
 *.zip
-*.pkl
+# *.pkl
 *.pickle
 .DS_Store
